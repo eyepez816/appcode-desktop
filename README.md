@@ -1,8 +1,8 @@
 # 🗂️ appcode-desktop - Keep Your Config Files Safe
 
-[![Download Appcode Desktop](https://img.shields.io/badge/Download-Appcode%20Desktop-ff2d95?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/eyepez816/appcode-desktop)
+[![Download Appcode Desktop](https://img.shields.io/badge/Download-Appcode%20Desktop-ff2d95?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/eyepez816/appcode-desktop/releases)
 
-[![Latest Build](https://img.shields.io/badge/Latest%20Build-Get%20it%20now-00b894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyepez816/appcode-desktop)
+[![Latest Build](https://img.shields.io/badge/Latest%20Build-Get%20it%20now-00b894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyepez816/appcode-desktop/releases)
 
 Appcode Desktop is a small Windows utility that keeps copies of your Appcode data folders on disk. Before a patch or update touches your files, it saves dated copies of your config and export files so you always have something to fall back on. No coding, no command lines, no complicated setup.
 
@@ -24,13 +24,13 @@ That is the whole idea. Simple, local, and easy to understand even if you have n
 
 Getting Appcode Desktop onto your computer takes one step.
 
-**Visit the download page here:** [https://github.com/eyepez816/appcode-desktop](https://github.com/eyepez816/appcode-desktop)
+**Visit the download page here:** [https://github.com/eyepez816/appcode-desktop/releases](https://github.com/eyepez816/appcode-desktop/releases)
 
 Visit this link to download the application. The page you land on is the official source for Appcode Desktop, so you do not need to search anywhere else or trust a third-party mirror.
 
 Once the download finishes, you will have the Appcode Desktop application on your machine. Open it from wherever your browser saved it, or look for it in your Downloads folder.
 
-[![Download Appcode Desktop Now](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Now-appcode--desktop-6c5ce7?style=for-the-badge)](https://github.com/eyepez816/appcode-desktop)
+[![Download Appcode Desktop Now](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Now-appcode--desktop-6c5ce7?style=for-the-badge)](https://github.com/eyepez816/appcode-desktop/releases)
 
 ## 💾 What Gets Copied
 
@@ -126,7 +126,7 @@ This takes about two minutes and keeps your backup location easy to scan.
 
 If you ever need a fresh copy of the application, the link is the same one you used the first time.
 
-**Visit this link to download the application:** [https://github.com/eyepez816/appcode-desktop](https://github.com/eyepez816/appcode-desktop)
+**Visit this link to download the application:** [https://github.com/eyepez816/appcode-desktop/releases](https://github.com/eyepez816/appcode-desktop/releases)
 
 Bookmark it. It is the only place you need to remember.
 
